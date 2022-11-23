@@ -24,6 +24,7 @@ img {
     justify-content: center;
 }
 h3 {
+ font-size: 25px;
  background: orange;
  display: flex;
  justify-content: center;
